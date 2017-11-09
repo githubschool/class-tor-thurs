@@ -1,4 +1,4 @@
-#Toronto
+# Toronto
 
-##Restaurants
+## Restaurants
 Sushi Niwa
